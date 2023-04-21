@@ -1,3 +1,3 @@
 Hello world!
-*Italic*
+*Italic* **Bold**
 Let's begin our introduction with GIT
