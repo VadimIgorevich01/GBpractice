@@ -1,9 +1,11 @@
-Hello world!
+# First lesson about GIT
 
-*Italic* **Bold**
 
-Let's begin our introduction with GIT
+## Change your text type
+*Italic*
+ **Bold**
 
+## Your life's goals
 * Study java
 * Quit sea-life style
 * Be happy
