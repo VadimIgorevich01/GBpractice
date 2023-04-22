@@ -8,4 +8,4 @@
 ## Your life's goals
 * Study java
 * Quit sea-life style
-* Be happy
+* Be very happy
