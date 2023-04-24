@@ -3,7 +3,9 @@
 ## Something 1
 
 ## Something 2
-I wrote something important
+I think, threre is some *problem.* What should I do to **rectify it?** 
+
+
 ## Something 3
 
 ## Something 4
@@ -17,5 +19,3 @@ I wrote something important
 
 ## Images 
 ![dream car](car.jpg)
-
-
