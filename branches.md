@@ -11,8 +11,8 @@
 ## Something 5
 
 ## Something 6
-* stay alive
-* stay strong
-* stay smart
+* stay __alive__
+* stay __strong__
+* stay __*smart*__
 
 
