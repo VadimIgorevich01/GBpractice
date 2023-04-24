@@ -11,4 +11,8 @@
 ## Something 5
 
 ## Something 6
+* stay alive
+* stay strong
+* stay smart
+
 
